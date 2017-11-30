@@ -1,0 +1,15 @@
+word2vec 中的数学原理详解:
+http://www.cnblogs.com/peghoty/p/3857839.html
+
+TDNN:
+http://blog.csdn.net/richard2357/article/details/16896837
+
+BLEU:
+http://blog.csdn.net/qq_21190081/article/details/53115580
+
+
+
+
+
+
+
